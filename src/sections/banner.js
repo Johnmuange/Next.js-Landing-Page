@@ -29,17 +29,6 @@ const Banner = () => {
             Grow your business revenue through internet marketing hassle free AI powered marketing tools
             made for the sucess of your business!.
             </Text>
-            <Box sx={styles.subscribe}>
-              <Label htmlFor="email" variant="styles.srOnly">
-                Email
-              </Label>
-              <Input
-                id="email"
-                type="email"
-                placeholder="Enter Email address"
-              />
-              <Button variant="primary">Subscribe</Button>
-            </Box>
             <Box sx={styles.sponsoredBy}>
               <Text as="span">Partners:</Text>
               <Box sx={styles.logos}>

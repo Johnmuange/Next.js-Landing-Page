@@ -3,8 +3,6 @@
 import { jsx, Box, Container } from 'theme-ui';
 import SectionHeading from 'components/section-heading';
 import Feature from 'components/cards/feature';
-
-import individual from 'assets/images/icons/individual.png';
 import team from 'assets/images/icons/team.png';
 import org from 'assets/images/icons/org.png';
 
