@@ -10,7 +10,6 @@ import {
   Image,
   Button,
 } from 'theme-ui';
-import Input from 'components/input';
 import banner from 'assets/images/banner.png';
 import facebook from 'assets/images/facebook.png';
 import google from 'assets/images/google.png';
