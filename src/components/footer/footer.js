@@ -1,7 +1,7 @@
 /** @jsxRuntime classic */
 /** @jsx jsx */
 import { jsx, Box, Text, Container } from 'theme-ui';
-import Logo from 'components/logo';
+import Logo from 'assets/images/logo.png';
 import { Link } from 'components/link';
 import FooterWidget from 'components/footer-widget';
 import { menuItems, footerNav } from './footer.data';

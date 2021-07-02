@@ -3,21 +3,29 @@
 import { jsx, Box, Container } from 'theme-ui';
 import SectionHeading from 'components/section-heading';
 import Feature from 'components/cards/feature';
-import team from 'assets/images/icons/team.png';
-import org from 'assets/images/icons/org.png';
+import idea from 'assets/images/icons/idea.png';
+import strategy from 'assets/images/icons/strategy.png';
+import performance from 'assets/images/icons/performance.png';
 
 const data = [
+  
   {
-    id: 2,
-    icon: team,
-    title: 'For Small Businesses',
+    id: 1,
+    icon: idea,
+    title: 'Profund Ideas',
     description: `We understand your need to start, build & scale your client base real quick here under one roof`,
   },
   {
+    id: 2,
+    icon: strategy,
+    title: 'On target strategies',
+    description: `Get a great plan towards your business success`,
+  },
+  {
     id: 3,
-    icon: org,
-    title: 'For Organizations',
-    description: `We can be your in house team & build incredible business with us, forget fragmented a workforce & inflated budgets`,
+    icon: performance,
+    title: 'Boost Performance',
+    description: `Optimize beyond the limits & achieve the best with us.`,
   },
 ];
 
