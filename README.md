@@ -1,4 +1,4 @@
-Created a Next.js website feel free to use it
+I Created a Next.js website feel free to use it
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M45JNFX)
 
